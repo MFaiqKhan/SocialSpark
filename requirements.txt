@@ -1,0 +1,11 @@
+fastapi
+pydantic
+uvicorn[standard]
+python-dotenv
+httpx
+pyjwt
+python-multipart
+pymongo
+motor
+apscheduler
+pytest 
